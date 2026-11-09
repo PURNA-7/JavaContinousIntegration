@@ -1,0 +1,2 @@
+# JavaContinousIntegration
+Simple Java Program
